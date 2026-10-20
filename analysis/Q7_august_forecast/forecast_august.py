@@ -45,8 +45,8 @@ from clean_extracts import MN_COUNTIES
 ROOT = Path(".")
 OUT = Path("forecast")
 TEMPLATE = (
-    Path(__file__).resolve().parent.parent
-    / "By organizers" / "PredictionFile" / "Grad_Team_XX_TFG_MinneMUDAC.xlsx"
+    Path(__file__).resolve().parent.parent.parent
+    / "By Organizers" / "PredictionFile" / "Grad_Team_XX_TFG_MinneMUDAC.xlsx"
 )
 CUTOFF = pd.Timestamp("2026-07-01")
 TARGETS = ("households", "pounds", "individuals", "children", "adults", "seniors")
@@ -95,7 +95,7 @@ COUNTY_FIPS = {
 
 
 def load_panel() -> pd.DataFrame:
-    fs = pd.read_csv(ROOT / "cleaned" / "org_FSStats.csv", parse_dates=["DateForSearch"])
+    fs = pd.read_csv(ROOT / ".." / "EDA" / "cleaned" / "org_FSStats.csv", parse_dates=["DateForSearch"])
     mn = fs[fs["County"].isin(MN_COUNTIES)].copy()
     panel = (
         mn.groupby(["County", "DateForSearch"], as_index=False)
@@ -366,7 +366,7 @@ def _size_band(july_value: float, err: pd.DataFrame) -> str:
 
 
 def region_map() -> pd.Series:
-    orgs = pd.read_csv(ROOT / "cleaned" / "Organization.csv")
+    orgs = pd.read_csv(ROOT / ".." / "EDA" / "cleaned" / "Organization.csv")
     orgs = orgs[orgs["County"].isin(MN_COUNTIES) & orgs["Region"].notna()]
     mode = (
         orgs.groupby("County")["Region"]
