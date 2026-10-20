@@ -1,0 +1,118 @@
+tract,county,place,urban,LILA 2025,LILA 2019,population,people in poverty,poverty %,% no vehicle,% SNAP households,miles to food shelf,miles to grocery,nearest food shelf,lbs/person in poverty (10 mi),tribal
+27145000304,Stearns,"Greater MN, urban",1,0,1,5586,2128.3,38.1,12.7,54.4,1.7,1.2,Saint Cloud,160.0,0
+27007940001,Beltrami,"Greater MN, rural",0,0,1,5506,1789.4,32.5,12.4,45.2,27.4,23.0,Bemidji,0.0,1
+27123037403,Ramsey,"Metro core (Hennepin, Ramsey)",1,1,1,6832,1721.7,25.2,13.3,27.4,1.8,1.4,St. Paul,277.0,0
+27097780600,Morrison,"Greater MN, urban",1,1,1,5672,1219.5,21.5,12.6,22.3,1.3,0.5,Little Falls,127.8,0
+27137000301,St. Louis,"Greater MN, urban",1,1,0,5140,1177.1,22.9,18.8,6.7,1.8,0.5,Duluth,268.7,0
+27109001401,Olmsted,"Greater MN, urban",1,0,1,4654,1168.2,25.1,17.0,17.8,1.3,1.0,Rochester,640.9,0
+27145000303,Stearns,"Greater MN, urban",1,0,1,2396,1145.3,47.8,5.5,19.4,1.4,1.0,Saint Cloud,160.0,0
+27145000502,Stearns,"Greater MN, urban",1,1,1,5928,1126.3,19.0,9.0,11.5,1.7,0.7,St. Cloud,160.0,0
+27053026809,Hennepin,"Metro core (Hennepin, Ramsey)",1,0,1,4834,1111.8,23.0,20.8,15.8,1.1,1.3,Brooklyn Center,350.4,0
+27053104002,Hennepin,"Metro core (Hennepin, Ramsey)",1,1,0,4309,1068.6,24.8,4.7,3.2,1.1,0.8,Minneapolis,366.9,0
+27145011308,Stearns,"Greater MN, urban",1,1,1,6061,1030.4,17.0,4.0,15.4,5.6,0.8,St. Cloud,216.8,0
+27141031500,Sherburne,"Greater MN, urban",1,1,1,7597,942.0,12.4,19.9,20.2,2.8,1.1,St. Cloud,160.0,0
+27005940000,Becker,"Greater MN, rural",0,1,1,3953,936.9,23.7,10.5,22.4,15.7,17.3,Naytahwaush,0.0,1
+27035951301,Crow Wing,"Greater MN, urban",1,1,0,5384,915.3,17.0,3.8,9.6,1.3,1.5,Baxter,143.3,0
+27067781000,Kandiyohi,"Greater MN, urban",1,1,1,5585,876.8,15.7,4.9,16.5,1.3,0.8,Willmar,138.9,0
+27003050605,Anoka,Metro suburbs,1,1,0,5798,858.1,14.8,12.4,11.1,1.2,1.4,Coon Rapids,371.7,0
+27137012400,St. Louis,"Greater MN, urban",1,1,1,4382,780.0,17.8,12.4,18.3,1.4,0.3,Hibbing,170.1,0
+27053000101,Hennepin,"Metro core (Hennepin, Ramsey)",1,1,0,3351,743.9,22.2,5.5,10.7,1.1,0.7,Minneapolis,362.5,0
+27085950401,McLeod,"Greater MN, urban",1,0,1,5831,734.7,12.6,2.8,4.8,1.7,2.6,Hutchinson,209.2,0
+27139080303,Scott,Metro suburbs,1,1,0,5948,731.6,12.3,3.9,10.9,1.2,0.9,Shakopee,269.2,0
+27053026511,Hennepin,"Metro core (Hennepin, Ramsey)",1,1,0,3532,702.9,19.9,2.1,7.0,2.8,0.6,Crystal,256.5,0
+27003050710,Anoka,Metro suburbs,1,0,1,3564,698.5,19.6,2.0,13.6,2.5,1.5,Blaine,241.0,0
+27123031801,Ramsey,"Metro core (Hennepin, Ramsey)",1,0,1,5330,698.2,13.1,14.8,31.1,1.2,0.3,St. Paul,301.1,0
+27123030703,Ramsey,"Metro core (Hennepin, Ramsey)",1,0,1,4702,681.8,14.5,15.0,18.7,1.2,0.5,Maplewood,301.6,0
+27105105600,Nobles,"Greater MN, urban",1,1,1,5531,674.8,12.2,5.1,8.3,1.3,1.1,Worthington,89.8,0
+27083360500,Lyon,"Greater MN, urban",1,0,1,3848,658.0,17.1,15.5,6.5,2.1,1.1,Marshall,147.3,0
+27145000501,Stearns,"Greater MN, urban",1,0,1,2158,656.0,30.4,12.0,22.7,1.8,0.6,St. Cloud,160.0,0
+27035951000,Crow Wing,"Greater MN, urban",1,0,1,4217,645.2,15.3,1.0,10.6,2.3,0.7,Brainerd,109.9,0
+27003051103,Anoka,Metro suburbs,1,0,1,3606,623.8,17.3,5.0,17.6,1.3,1.1,Fridley,280.4,0
+27053026104,Hennepin,"Metro core (Hennepin, Ramsey)",1,1,1,4433,611.8,13.8,0.7,4.6,1.1,1.7,Minnetonka,425.7,0
+27003051201,Anoka,Metro suburbs,1,1,0,3958,605.6,15.3,6.3,19.5,1.1,0.7,Brooklyn Center,330.4,0
+27037060805,Dakota,Metro suburbs,1,0,1,3671,602.0,16.4,6.2,19.1,1.4,1.5,Apple Valley,262.7,0
+27003051102,Anoka,Metro suburbs,1,0,1,4774,601.5,12.6,4.5,9.1,1.6,0.9,Spring Lake Park,321.9,0
+27123041107,Ramsey,"Metro core (Hennepin, Ramsey)",1,1,1,6242,593.0,9.5,2.0,9.1,2.0,1.0,New Brighton,453.1,0
+27053021501,Hennepin,"Metro core (Hennepin, Ramsey)",1,0,1,4550,577.8,12.7,10.3,10.9,1.5,1.0,Crystal,262.0,0
+27163071012,Washington,Metro suburbs,1,1,0,5143,565.7,11.0,0.0,3.3,3.2,1.5,Landfall,248.0,0
+27123037603,Ramsey,"Metro core (Hennepin, Ramsey)",1,0,1,3105,552.7,17.8,18.1,13.5,1.2,0.2,St. Paul,410.9,0
+27061480805,Itasca,"Greater MN, urban",1,1,1,2541,531.1,20.9,12.6,22.8,1.0,0.6,Grand Rapids,370.6,0
+27013170800,Blue Earth,"Greater MN, urban",1,1,0,4943,519.0,10.5,4.4,4.8,1.0,0.8,Mankato,307.4,0
+27147960400,Steele,"Greater MN, urban",1,1,0,4351,517.8,11.9,16.8,7.2,1.6,0.4,Owatonna,836.5,0
+27137013300,St. Louis,"Greater MN, urban",1,1,1,3493,517.0,14.8,6.1,20.0,3.9,3.2,Virginia,386.8,0
+27123030702,Ramsey,"Metro core (Hennepin, Ramsey)",1,0,1,5651,514.2,9.1,2.9,12.6,1.1,0.4,Maplewood,480.2,0
+27171100704,Wright,"Greater MN, urban",1,1,0,4672,509.2,10.9,4.6,7.5,1.1,0.6,Buffalo,190.2,0
+27053021502,Hennepin,"Metro core (Hennepin, Ramsey)",1,0,1,3965,507.5,12.8,18.6,18.2,1.2,0.8,Crystal,302.0,0
+27131070802,Rice,"Greater MN, urban",1,0,1,4036,504.5,12.5,4.9,9.6,1.2,1.1,Faribault,413.5,0
+27003050608,Anoka,Metro suburbs,1,0,1,4810,485.8,10.1,10.5,13.8,1.3,1.0,Coon Rapids,227.6,0
+27171101300,Wright,"Greater MN, rural",0,0,1,5154,484.5,9.4,9.0,7.4,10.8,0.4,Waverly,0.0,0
+27007450706,Beltrami,"Greater MN, urban",1,1,1,2336,460.2,19.7,9.3,24.3,1.8,0.6,Bemidji,217.5,0
+27007450400,Beltrami,"Greater MN, rural",0,0,1,2904,453.0,15.6,4.7,15.4,17.6,7.5,Bemidji,0.0,0
+27171100205,Wright,"Greater MN, urban",1,1,0,4060,450.7,11.1,8.4,6.3,3.0,0.6,Big Lake,481.8,0
+27123041602,Ramsey,"Metro core (Hennepin, Ramsey)",1,0,1,3836,429.6,11.2,9.9,10.0,2.3,0.8,Little Canada,473.3,0
+27053020500,Hennepin,"Metro core (Hennepin, Ramsey)",1,0,1,4090,429.4,10.5,9.4,18.7,1.1,0.8,Minneapolis,357.5,0
+27059130502,Isanti,"Greater MN, urban",1,1,0,7925,428.0,5.4,0.9,3.6,6.0,0.5,Cambridge,349.1,0
+27029000300,Clearwater,"Greater MN, rural",0,1,1,3117,402.1,12.9,11.4,13.3,12.0,1.0,Bagley,0.0,0
+27127750500,Redwood,"Greater MN, rural",0,1,0,2676,401.4,15.0,3.2,10.0,11.2,11.5,Wabasso,0.0,0
+27145011307,Stearns,"Greater MN, urban",1,0,1,1683,392.1,23.3,0.0,16.2,6.2,1.2,St. Cloud,216.8,0
+27123040606,Ramsey,"Metro core (Hennepin, Ramsey)",1,1,0,4208,391.3,9.3,6.9,10.2,1.2,0.6,Little Canada,310.7,0
+27129790600,Renville,"Greater MN, rural",0,0,1,2737,377.7,13.8,4.3,8.9,11.1,16.2,Morton,0.0,0
+27005450100,Becker,"Greater MN, rural",0,1,1,3199,371.1,11.6,1.6,7.9,10.2,10.2,Park Rapids,0.0,0
+27123040302,Ramsey,"Metro core (Hennepin, Ramsey)",1,0,1,5250,367.5,7.0,1.7,3.0,1.4,1.0,White Bear Lake,397.7,0
+27013170300,Blue Earth,"Greater MN, urban",1,0,1,3040,364.8,12.0,5.5,10.6,1.6,1.2,Mankato,307.4,0
+27053020600,Hennepin,"Metro core (Hennepin, Ramsey)",1,0,1,2404,360.6,15.0,1.9,11.4,1.3,1.2,Brooklyn Center,354.2,0
+27137015200,St. Louis,"Greater MN, rural",0,1,0,3418,358.9,10.5,3.6,6.3,12.2,11.9,Cook,0.0,0
+27123041200,Ramsey,"Metro core (Hennepin, Ramsey)",1,0,1,4205,357.4,8.5,11.8,5.6,1.1,1.8,New Brighton,403.7,0
+27163071003,Washington,Metro suburbs,1,0,1,3797,356.9,9.4,18.2,26.2,1.7,2.1,St Paul Park,247.1,0
+27171100203,Wright,"Greater MN, urban",1,1,1,5801,353.9,6.1,1.9,9.9,4.1,0.8,Big Lake,295.1,0
+27143170200,Sibley,"Greater MN, rural",0,1,0,3483,351.8,10.1,4.4,4.8,11.9,4.4,Gaylord,0.0,0
+27137012800,St. Louis,"Greater MN, urban",1,1,0,2920,350.4,12.0,5.6,5.5,1.6,0.7,Mountain Iron,386.8,0
+27037060750,Dakota,Metro suburbs,1,0,1,4361,340.2,7.8,5.7,12.3,3.1,1.0,Bloomington,324.9,0
+27037060748,Dakota,Metro suburbs,1,1,0,3583,333.2,9.3,5.8,2.7,1.9,0.9,Burnsville,271.7,0
+27053021001,Hennepin,"Metro core (Hennepin, Ramsey)",1,0,1,5835,326.8,5.6,8.9,4.4,1.9,0.9,Golden Valley,329.7,0
+27163070911,Washington,Metro suburbs,1,1,0,4736,317.3,6.7,5.8,2.0,2.0,0.8,Landfall,409.6,0
+27041450601,Douglas,"Greater MN, urban",1,1,1,3497,311.2,8.9,9.0,14.0,1.5,1.0,Alexandria,255.3,0
+27003050606,Anoka,Metro suburbs,1,0,1,2010,309.5,15.4,11.0,17.2,2.1,2.0,Coon Rapids,236.5,0
+27151960100,Swift,"Greater MN, rural",0,1,1,2491,298.9,12.0,9.6,12.8,12.9,12.8,Benson,0.0,0
+27005450600,Becker,"Greater MN, urban",1,1,1,3433,298.7,8.7,11.3,11.5,2.2,0.8,Detroit Lakes,224.5,0
+27053023402,Hennepin,"Metro core (Hennepin, Ramsey)",1,0,1,1913,294.6,15.4,12.5,6.4,1.4,0.9,St. Louis Park,327.9,0
+27005450200,Becker,"Greater MN, rural",0,0,1,2247,292.1,13.0,1.5,5.9,14.0,14.2,Detroit Lakes,0.0,0
+27059130302,Isanti,"Greater MN, urban",1,1,1,2897,286.8,9.9,14.4,8.7,1.0,0.5,Cambridge,250.9,0
+27035951200,Crow Wing,"Greater MN, urban",1,1,0,2843,284.3,10.0,15.8,20.8,1.2,1.1,Brainerd,109.9,0
+27131070801,Rice,"Greater MN, urban",1,0,1,3854,281.3,7.3,17.9,20.6,1.8,1.5,Faribault,413.5,0
+27119020700,Polk,"Greater MN, urban",1,1,1,2120,275.6,13.0,13.1,12.6,14.7,1.2,Climax,0.0,0
+27041450703,Douglas,"Greater MN, urban",1,1,0,2475,274.7,11.1,7.5,5.3,1.1,0.8,Alexandria,255.3,0
+27053100500,Hennepin,"Metro core (Hennepin, Ramsey)",1,0,1,1978,269.0,13.6,15.9,17.8,1.0,1.2,Minneapolis,355.6,0
+27003050504,Anoka,Metro suburbs,1,0,1,2547,262.3,10.3,0.5,5.6,1.1,1.2,Anoka,335.9,0
+27113090400,Pennington,"Greater MN, urban",1,0,1,2932,255.1,8.7,7.8,13.2,2.8,0.5,Thief River Falls,289.9,0
+27091790100,Martin,"Greater MN, rural",0,0,1,2930,254.9,8.7,5.6,8.8,10.4,9.2,Fairmont,0.0,0
+27001770402,Aitkin,"Greater MN, rural",0,0,1,1562,245.2,15.7,4.3,13.2,21.6,11.7,Palisade,0.0,0
+27137003600,St. Louis,"Greater MN, urban",1,1,1,1635,240.3,14.7,4.6,10.7,2.3,2.6,Duluth,268.7,0
+27123040504,Ramsey,"Metro core (Hennepin, Ramsey)",1,1,0,4110,238.4,5.8,9.6,8.7,1.0,1.1,White Bear Lake,111.8,0
+27061480401,Itasca,"Greater MN, rural",0,1,0,1470,238.1,16.2,1.4,3.2,13.5,13.5,Bogfork,0.0,0
+27007450500,Beltrami,"Greater MN, rural",0,0,1,1732,235.6,13.6,1.4,10.0,33.8,18.2,Bemidji,0.0,0
+27169670200,Winona,"Greater MN, urban",1,0,1,3224,235.4,7.3,7.0,5.4,4.2,2.0,Winona,97.2,0
+27123042001,Ramsey,"Metro core (Hennepin, Ramsey)",1,1,0,1866,235.1,12.6,15.1,3.6,1.5,0.6,St. Paul,422.5,0
+27015960101,Brown,"Greater MN, urban",1,0,1,1893,234.7,12.4,8.4,9.4,1.4,1.6,New Ulm,94.3,0
+27123037604,Ramsey,"Metro core (Hennepin, Ramsey)",1,0,1,2373,232.6,9.8,12.2,18.0,1.4,0.1,St. Paul,412.6,0
+27031480101,Cook,"Greater MN, rural",0,1,1,1522,231.3,15.2,3.5,6.2,17.2,12.9,Grand Portage,0.0,0
+27037060726,Dakota,Metro suburbs,1,1,0,3158,221.1,7.0,3.2,10.0,2.9,0.6,Eagan,396.5,0
+27061480804,Itasca,"Greater MN, urban",1,0,1,2053,219.7,10.7,8.6,18.6,2.4,0.9,Grand Rapids,370.6,0
+27001790501,Aitkin,"Greater MN, rural",0,0,1,1887,209.5,11.1,4.3,7.6,13.4,13.3,Isle,0.0,0
+27003050611,Anoka,Metro suburbs,1,1,0,3630,206.9,5.7,5.8,1.0,1.3,0.9,Coon Rapids,344.5,0
+27127750600,Redwood,"Greater MN, rural",0,0,1,1720,190.9,11.1,4.4,8.3,12.1,0.8,Wabasso,0.0,0
+27115950401,Pine,"Greater MN, rural",0,1,1,963,189.7,19.7,5.1,16.1,17.1,17.1,Sandstone,0.0,0
+27137011300,St. Louis,"Greater MN, rural",0,1,1,2103,180.9,8.6,4.7,6.9,17.8,16.2,Hibbing,0.0,0
+27003051101,Anoka,Metro suburbs,1,0,1,5254,162.9,3.1,6.7,4.6,1.0,0.5,,294.0,0
+27037061110,Dakota,Metro suburbs,1,0,1,3100,158.1,5.1,5.5,6.8,2.5,0.6,Hastings,99.5,0
+27037060402,Dakota,Metro suburbs,1,0,1,3594,154.5,4.3,11.2,9.6,1.8,1.1,St. Paul,293.2,0
+27145001003,Stearns,"Greater MN, urban",1,1,0,3986,151.5,3.8,4.4,3.7,2.5,1.0,Saint Cloud,160.0,0
+27031480102,Cook,"Greater MN, rural",0,0,1,1926,150.2,7.8,2.8,0.8,12.2,12.5,Grand Marais,0.0,0
+27089080200,Marshall,"Greater MN, rural",0,1,0,2196,149.3,6.8,2.0,4.8,10.6,17.3,Strandquist,0.0,0
+27137015502,St. Louis,"Greater MN, rural",0,1,1,1200,141.6,11.8,4.5,3.5,15.6,8.1,Cook,0.0,0
+27173970400,Yellow Medicine,"Greater MN, rural",0,0,1,1865,125.0,6.7,3.4,2.8,11.2,10.9,Granite Falls,0.0,0
+27105105300,Nobles,"Greater MN, rural",0,1,0,2341,121.7,5.2,2.0,7.0,10.0,9.5,Worthington,0.0,0
+27053025704,Hennepin,"Metro core (Hennepin, Ramsey)",1,1,0,4894,117.5,2.4,2.2,1.9,1.2,0.6,Bloomington,405.8,0
+27001770401,Aitkin,"Greater MN, rural",0,1,1,1308,88.9,6.8,4.4,2.9,12.2,7.3,Palisade,0.0,0
+27053980100,Hennepin,"Metro core (Hennepin, Ramsey)",1,1,1,432,88.1,20.4,55.7,46.1,1.0,1.3,Minneapolis,403.1,0
+27077460402,Lake of the Woods,"Greater MN, rural",0,1,0,925,30.5,3.3,0.0,0.0,19.6,19.3,Warroad,0.0,0

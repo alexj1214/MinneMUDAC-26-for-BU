@@ -1,0 +1,5 @@
+place,tracts,people in poverty,median miles to food shelf,median miles to full grocery,% within USDA distance of a food shelf,% with food shelf closer than grocery,lbs / person in poverty / yr (10 mi),visits / person in poverty / yr (10 mi)
+"Metro core (Hennepin, Ramsey)",20,18720.3,0.8,0.8,65.2,58.2,354.4,7.5
+Metro suburbs,15,7160.6,1.1,0.9,46.4,40.0,275.4,4.8
+"Greater MN, urban",71,49145.5,0.8,0.8,68.5,46.4,224.6,3.5
+"Greater MN, rural",35,10828.8,9.4,10.9,58.5,67.7,94.3,1.7

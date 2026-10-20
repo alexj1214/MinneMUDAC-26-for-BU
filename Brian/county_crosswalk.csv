@@ -1,0 +1,112 @@
+raw_label,county_key,sub_area,match_type,source_rows
+cottonwood/brown,Cottonwood,,ambiguous,1
+aitkin,Aitkin,,exact,430
+anoka,Anoka,,exact,2811
+becker,Becker,,exact,398
+beltrami,Beltrami,,exact,892
+benton,Benton,,exact,211
+big stone,Big Stone,,exact,66
+blue earth,Blue Earth,,exact,575
+brown,Brown,,exact,215
+carlton,Carlton,,exact,408
+carver,Carver,,exact,439
+cass,Cass,,exact,607
+chippewa,Chippewa,,exact,75
+chisago,Chisago,,exact,367
+clay,Clay,,exact,834
+clearwater,Clearwater,,exact,117
+cook,Cook,,exact,269
+cottonwood,Cottonwood,,exact,176
+crow wing,Crow Wing,,exact,680
+dakota,Dakota,,exact,4181
+dodge,Dodge,,exact,130
+douglas,Douglas,,exact,286
+faribault,Faribault,,exact,179
+fillmore,Fillmore,,exact,266
+freeborn,Freeborn,,exact,454
+goodhue,Goodhue,,exact,424
+grant,Grant,,exact,120
+hennepin,Hennepin,Unspecified,exact,10774
+hennepin-minneapolis,Hennepin,Minneapolis,exact,5459
+hennepin-suburbs,Hennepin,Suburbs,exact,5624
+houston,Houston,,exact,280
+hubbard,Hubbard,,exact,302
+isanti,Isanti,,exact,257
+itasca,Itasca,,exact,1041
+jackson,Jackson,,exact,167
+kanabec,Kanabec,,exact,160
+kandiyohi,Kandiyohi,,exact,337
+kittson,Kittson,,exact,104
+koochiching,Koochiching,,exact,441
+lac qui parle,Lac qui Parle,,exact,66
+lake,Lake,,exact,379
+lake of the woods,Lake of the Woods,,exact,59
+le sueur,Le Sueur,,exact,318
+lincoln,Lincoln,,exact,66
+lyon,Lyon,,exact,234
+mahnomen,Mahnomen,,exact,237
+marshall,Marshall,,exact,225
+martin,Martin,,exact,134
+mcleod,McLeod,,exact,452
+meeker,Meeker,,exact,174
+mille lacs,Mille Lacs,,exact,359
+morrison,Morrison,,exact,383
+mower,Mower,,exact,454
+murray,Murray,,exact,120
+nicollet,Nicollet,,exact,78
+nobles,Nobles,,exact,210
+norman,Norman,,exact,127
+olmsted,Olmsted,,exact,1075
+otter tail,Otter Tail,,exact,536
+pennington,Pennington,,exact,67
+pine,Pine,,exact,165
+pipestone,Pipestone,,exact,198
+polk,Polk,,exact,486
+pope,Pope,,exact,66
+ramsey,Ramsey,Unspecified,exact,9690
+ramsey-saint paul,Ramsey,Saint Paul,exact,2781
+ramsey-suburbs,Ramsey,Suburbs,exact,2197
+red lake,Red Lake,,exact,116
+redwood,Redwood,,exact,174
+renville,Renville,,exact,149
+rice,Rice,,exact,375
+rock,Rock,,exact,161
+roseau,Roseau,,exact,125
+scott,Scott,,exact,812
+sherburne,Sherburne,,exact,758
+sibley,Sibley,,exact,128
+st. louis,St. Louis,,exact,2670
+stearns,Stearns,,exact,1336
+steele,Steele,,exact,224
+stevens,Stevens,,exact,142
+swift,Swift,,exact,65
+todd,Todd,,exact,295
+traverse,Traverse,,exact,115
+wabasha,Wabasha,,exact,433
+wadena,Wadena,,exact,315
+waseca,Waseca,,exact,190
+washington,Washington,,exact,1579
+watonwan,Watonwan,,exact,65
+wilkin,Wilkin,,exact,9
+winona,Winona,,exact,440
+wright,Wright,,exact,967
+yellow medicine,Yellow Medicine,,exact,147
+(null),(Unallocated),,missing,16049
+( out of state ),(Out of state),,non-place,708
+(unknown),(Unallocated),,non-place,1106
+h,(Unallocated),,non-place,1
+usa,(Out of state),,non-place,2
+dakota county,Dakota,,suffix,1
+hennepin county,Hennepin,,suffix,1
+olmsted county,Olmsted,,suffix,1
+stearns county,Stearns,,suffix,1
+wright county,Wright,,suffix,1
+aanoka,Anoka,,typo,1
+dakotadakota,Dakota,,typo,1
+filmorefillmore,Fillmore,,typo,1
+hennhennepin,Hennepin,,typo,1
+hennipen,Hennepin,,typo,12
+ramesy,Ramsey,,typo,1
+rasmey,Ramsey,,typo,1
+rroseau,Roseau,,typo,1
+sterns,Stearns,,typo,1

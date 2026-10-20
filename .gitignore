@@ -1,0 +1,34 @@
+# ---- OS / editor / notebook junk ----
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# ---- The Food Group extracts: not redistributable (Rules of Engagement §10:
+#      findings/methodology may be shared, raw data and specific values may not).
+#      Every copy of the five organizer files, wherever it lives, plus the
+#      cleaned / re-keyed copies of the same tables. Keep these locally only.
+**/org_FSStats.xlsx
+**/Organization.xlsx
+**/Incoming Call.xlsx
+**/marketbucksUsage.xlsx
+**/cleaned/
+**/master_panel_v2.csv
+**/master_panel_v2.xlsx
+**/master_panel_v2_subcounty.csv
+
+# ---- Feeding America Map the Meal Gap: access is granted per-requester,
+#      so the workbooks are not re-published here (the public FAQ PDF is kept).
+MMG2026_Data_To_Share/*
+!MMG2026_Data_To_Share/Map the Meal Gap Overview and FAQ 5.3.23.pdf
+**/MMG_County_MN_2021_2024.xlsx
+
+# ---- Verbatim Zoom transcripts of organizer calls (AI summaries are kept)
+**/Zoom*_Transcript.txt
+
+# ---- Public downloads above GitHub's file-size limits (sources in README)
+**/tl_2024_27_tabblock20/
+**/Historical SNAP Retailer Locator Data 2005-2025.csv
+
+# ---- Scratch
+**/Data/trash/

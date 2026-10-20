@@ -1,0 +1,15 @@
+Food Access Research Atlas, SNAP-authorized Retailer Access Map Data Download
+Source: USDA, Economic Research Service using data from various sources as documented on the Food Access Research Atlas Documentation webpage.
+Recommended Citation: U.S. Department of Agriculture, Economic Research Service. Food Access Research Atlas, SNAP-authorized Retailer Access Map.
+Notes about the Food Access Research Atlas, SNAP authorized Retailer Access Map Download Data:
+This file contains multiple spreadsheets:
+1. A variable lookup (VL) that provides explanatory names for all Food Access Research Atlas, SNAP-authorized Retailer Access Map, General Tract Characteristics variables.
+2. A table of all Food Access Research Atlas, SNAP-authorized Retailer Access Map, General Tract Characteristics Data.
+3. A variable lookup (VL) that provides explanatory names for all Food Access Research Atlas, SNAP-authorized Retailer Access Map, Straight-Line (Euclidean-based) Distance variables.
+4. A table of all Food Access Research Atlas, SNAP-authorized Retailer Access Map, Straight-Line (Euclidean-based) Distance Data.
+5. A variable lookup (VL) that provides explanatory names for all Food Access Research Atlas, SNAP-authorized Retailer Access Map, Driving (Network-Based) Distance variables.
+6. A table of all Food Access Research Atlas Data, SNAP-authorized Retailer Access Map, Driving (Network-Based) Distance Data.
+Data explanations and data sources are on the Food Access Research Atlas's SNAP-authorized Retailer Access Map Documentation page on the USDA, ERS website.
+Notes: Cells are intentionally left blank when data are unavailable or not applicable.
+Release history:
+Initial release: July 2026

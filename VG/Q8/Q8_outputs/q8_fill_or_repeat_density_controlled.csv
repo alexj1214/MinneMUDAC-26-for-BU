@@ -1,0 +1,6 @@
+place,"slope, density-controlled",ci_low,ci_high
+All low-income tracts,0.4,0.28,0.52
+"Greater MN, rural",0.55,0.38,0.71
+"Greater MN, urban",0.17,-0.09,0.43
+"Metro core (Hennepin, Ramsey)",0.23,-0.03,0.5
+Metro suburbs,0.02,-0.32,0.36

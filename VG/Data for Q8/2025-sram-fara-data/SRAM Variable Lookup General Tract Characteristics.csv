@@ -1,0 +1,28 @@
+﻿Field,LongName,Description
+CensusTract20,Census tract 2020,Census tract number in 2020
+State,State,State name
+County20,County 2020,County name in 2020
+County24,County 2024,County name in 2024
+Urban,Urban tract,Flag for urban tract
+POP2020,"Population, tract total",Population count from 2020 census
+OHU2020,"Housing units, total",Occupied housing unit count from 2020 census
+GroupQuartersFlag,"Group quarters, tract with high share",Flag for tract where >=67%
+NUMGQTRS,"Group quarters, tract population residing in, number",Count of tract population residing in group quarters
+PCTGQTRS,"Group quarters, tract population residing in, share",Percent of tract population residing in group quarters
+LowIncomeTracts,Low income tract,Flag for low income tract
+PovertyRate,Tract poverty rate,Share of the tract population living with income at or below the Federal poverty thresholds for family size
+MedianFamilyIncome,Tract median family income,Tract median family income
+TractLOWI,"Tract low-income population, number",Total count of low-income population in tract
+TractKids,"Tract children age 0-17, number",Total count of children age 0-17 in tract
+TractSeniors,"Tract seniors age 65+, number",Total count of seniors age 65+ in tract
+TractWhite,"Tract White population, number",Total count of White population in tract
+TractBlack,"Tract Black or African American population, number",Total count of Black or African American population in tract
+TractAsian,"Tract Asian population, number",Total count of Asian population in tract
+TractNHOPI,"Tract Native Hawaiian and Other Pacific Islander population, number",Total count of Native Hawaiian and Other Pacific Islander population in tract
+TractAIAN,"Tract American Indian and Alaska Native population, number",Total count of American Indian and Alaska Native population in tract
+TractOMultir,"Tract Other/Multiple race population, number",Total count of Other/Multiple race population in tract
+TractHispanic,"Tract Hispanic or Latino population, number",Total count of Hispanic or Latino population in tract
+TractHUNV,"Tract housing units without a vehicle, number",Total count of housing units without a vehicle in tract
+TractSNAP,"Tract housing units receiving SNAP benefits, number",Total count of housing units receiving SNAP benefits in tract
+TractVeteran,"Tract Veteran population, number",Total count of Veteran population in tract
+TractTribalArea,"Tract Tribal area, share",Share of the tract that is American Indian tribal subdivision area (administrative subdivisions of federally recognized American Indian reservations/off-reservation trust lands or Oklahoma tribal statistical areas (OTSAs)

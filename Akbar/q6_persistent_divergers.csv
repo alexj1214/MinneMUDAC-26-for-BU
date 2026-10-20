@@ -1,0 +1,4 @@
+county,direction,mean_divergence,mean_fi_rate,mean_rucc
+Rice,over-served (demand > need),3.1483990176545267,0.09799999999999999,4.0
+Steele,over-served (demand > need),3.5948428073131957,0.09733333333333333,5.0
+Washington,over-served (demand > need),3.702740757945907,0.07433333333333333,1.0
