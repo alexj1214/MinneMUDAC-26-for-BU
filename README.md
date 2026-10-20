@@ -36,7 +36,7 @@ question has its own folder under `analysis/`.
 │   ├── MinneMUDAC 26 Rules of Engagement.docx    consolidated rules with sources
 │   ├── MinneMUDAC_2026_Meeting_Summary_Sept29.docx   judging / rubric call notes
 │   └── EDA Review.docx
-├── deliverables/                  Slide deck, v1 → v3 (v3 is the presented version)
+├── deliverables/                  Slide deck, v1 → v3 (v3 is the latest revision)
 └── analysis/
     ├── EDA/                       Profiling of the four extracts; writes cleaned/ CSVs
     ├── Q1_county_panel/           Cleaning pipeline + master county-month panel (Q1 foundation)
@@ -54,11 +54,11 @@ question has its own folder under `analysis/`.
 | Q | Question (short) | Folder | Main files | Owner |
 |---|---|---|---|---|
 | — | Exploratory data analysis of the four extracts | `analysis/EDA/` | `EDA.ipynb` (profiles every table, flags quality issues, writes `cleaned/*.csv`). `EDA_early_draft.ipynb` is an earlier 36-cell draft of the same notebook. | Alex |
-| 1 | Clean, join and build the county panel | `analysis/Q1_county_panel/` | `Data Clean.ipynb`, `county_crosswalk.csv`, `master_panel_v2_dictionary.*` (the panel itself is excluded, see below) | Brian |
-| 1 | Need estimates vs. observed activity | `analysis/Q1_need_vs_activity/` | `Q1_clean_and_analysis.ipynb`, `cleaning_log.md`, `q1_county_panel.csv`, `q1_unassigned_residual.csv`, `q1_scatter_2024.png` | Brian |
+| 1 | Clean, join and build the county panel | `analysis/Q1_county_panel/` | `Data Clean.ipynb`, `county_crosswalk.csv`, `master_panel_dictionary.csv`, `master_panel_v2_dictionary.*` (the panel tables themselves are excluded, see below) | Brian |
+| 1 | Need estimates vs. observed activity | `analysis/Q1_need_vs_activity/` | `Q1_clean_and_analysis.ipynb`, `cleaning_log.md`, `q1_unassigned_residual.csv`, `q1_scatter_2024.png` (`q1_county_panel.csv` is excluded, see below) | Brian |
 | 4 | Food prices and food shelf activity | `analysis/Q4_Q5_prices_and_snap/` | `✨Q4_FINAL✨.ipynb`, data in `Data/Q4/` | Suji |
 | 5 | SNAP enrollment and food shelf use | `analysis/Q4_Q5_prices_and_snap/` | `✨Q5_FINAL✨.ipynb`, data in `Data/Q5/` | Suji |
-| 6 | Divergence measure for need and demand (+ grad addendum) | `analysis/Q6_divergence_measure/` | `Q6_need_divergence.ipynb`, `q6_county_year_with_need_index.csv`, `q6_county_summary.csv`, `q6_persistent_divergers.csv`, `q6_divergence_chart.png` | Akbar |
+| 6 | Divergence measure for need and demand (+ grad addendum) | `analysis/Q6_divergence_measure/` | `Q6_need_divergence.ipynb`, `q6_county_summary.csv`, `q6_persistent_divergers.csv`, `q6_divergence_chart.png` (`q6_county_year_with_need_index.csv` is excluded, see below) | Akbar |
 | 7 | Forecast August 2026 activity by county (+ grad addendum) | `analysis/Q7_august_forecast/` | `forecast_august.py` + `forecast_august_steps.ipynb` → `forecast/` (Alex); `Q7_Forecast.ipynb` (Brian) | Alex, Brian |
 | 8 | LILA areas and the reach of the network | `analysis/Q8_lila_reach/` | `Q8_01_build_tract_table.ipynb`, `Q8_02_analysis.ipynb`, `Q8_block_relationship_to_csv.ipynb`, outputs in `Q8_outputs/` | VG |
 
@@ -114,8 +114,9 @@ that year's workbook. Required for Q1 and Q6. Not in the repo.
 | Historical SNAP Retailer Locator 2005–2025 | Q8 | USDA FNS | store |
 | USDA Rural-Urban Continuum Codes, 2013 and 2023 (`rucc` in the Q1 panel) | Q1, Q6 | USDA ERS | county |
 
-Each notebook states the exact series, grain and reason for choosing it, as the brief
-requires.
+The brief requires each added source to be documented with publisher and exact
+series, geographic grain, time grain, and the reason it was chosen over alternatives;
+see the individual notebooks for those details.
 
 ### Files deliberately kept out of the public repo
 
@@ -127,7 +128,8 @@ per requester. The `.gitignore` therefore excludes:
 | Excluded | Why | How to get it |
 |---|---|---|
 | The four Food Group extracts (every copy, in `By Organizers/Data/`, `analysis/Q8_lila_reach/Data for Q8/`, `analysis/Q4_Q5_prices_and_snap/Data/`) | not redistributable | shared team Drive |
-| `analysis/EDA/cleaned/*.csv`, `analysis/Q1_county_panel/master_panel_v2*.csv/.xlsx` | cleaned / re-keyed copies of the same data | re-run `EDA.ipynb` / `Data Clean.ipynb` |
+| `analysis/EDA/cleaned/*.csv`; `master_panel_v2.csv`, `master_panel_v2.xlsx`, `master_panel_v2_subcounty.csv` in `analysis/Q1_county_panel/` (the two dictionary files stay) | cleaned / re-keyed copies of the same data | re-run `EDA.ipynb` / `Data Clean.ipynb` |
+| `q1_county_panel.csv`, `q6_county_year_with_need_index.csv`, `Q8_outputs/q8_food_shelf_sites_2024.csv` | county-year Map the Meal Gap table merged with Food Group totals; site-level Food Group totals with coordinates | re-run the Q1 / Q6 / Q8 notebooks |
 | `MMG2026_Data_To_Share/*.xlsx`, `MMG_County_MN_2021_2024.xlsx` | Feeding America access is per-requester | request at feedingamerica.org (Map the Meal Gap data request) |
 | `By Organizers/Zoom Summaries/Zoom*_Transcript.txt` | verbatim transcripts of named organizers | team Drive (AI summaries are included) |
 | `Data for Q8/tl_2024_27_tabblock20/` (256 MB) | above GitHub's 100 MB file limit | [Census TIGER/Line 2024, blocks, state 27](https://www2.census.gov/geo/tiger/TIGER2024/TABBLOCK20/tl_2024_27_tabblock20.zip) |
@@ -135,6 +137,12 @@ per requester. The `.gitignore` therefore excludes:
 | `analysis/Q4_Q5_prices_and_snap/Data/trash/` | archived scratch workbooks | — |
 
 Drop the matching files into the same paths and every notebook runs unchanged.
+
+What remains in the repo is the team's methodology and findings: notebooks with their
+executed outputs, forecast tables, Q6 county summaries and Q8 tract tables. Some of
+those still show aggregate Food Group values (for example statewide monthly totals in
+`forecast/statewide_monthly_through_july2026.csv` and county July 2026 actuals next
+to the forecasts). If the §10 rule is read strictly, make the repository private.
 
 ---
 
