@@ -32,3 +32,10 @@ MMG2026_Data_To_Share/*
 
 # ---- Scratch
 **/Data/trash/
+
+# ---- Derived tables that re-express the gated / non-redistributable data
+#      (Map the Meal Gap county table merged with Food Group county totals;
+#      site-level Food Group totals with coordinates). Rebuilt by the notebooks.
+**/q1_county_panel.csv
+**/q6_county_year_with_need_index.csv
+**/q8_food_shelf_sites_2024.csv
